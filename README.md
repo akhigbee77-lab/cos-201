@@ -5,7 +5,7 @@
 
 ### Student Details
 - Name: Akhigbe Emmanuel
-- - Matriculation Number: 
+- - Matriculation Number: 25/16429
 ### Practical Exercise
 Created and executed my first Java programme.
 
@@ -23,7 +23,7 @@ Created and executed my first Java programme.
 
 ## Student Information
 - Name: Akhigbe Emmanuel
-- Matriculation Number: 
+- Matriculation Number: 25/16429
 - Programme: Computer Science
 - Course: COS 201
 - Week: 2
